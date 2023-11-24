@@ -8,7 +8,7 @@
 ## 🏠 My Space
 #### Blog(🖱️Click)
 <a href="https://codegradation.tistory.com">
-  <img src="https://github.com/euijooning/euijooning/assets/49093239/0d7919a5-3c66-415f-9af6-52d6de69de34" alt="이미지 링크">
+  <img src="https://github.com/euijooning/euijooning/assets/49093239/61e6cb04-4248-4664-9e01-79f23ad33d45" alt="이미지 링크">
 </a>
 
 <br>
@@ -39,14 +39,13 @@
 <img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
 </p>
 
-
-
 <br>
 
-## 📺 시연 영상 모아보기
-- 🚀 **[프로젝트]** https://www.youtube.com/playlist?list=PLlctsRMqEBsx-MGu5acRkd9eynIVM-b3j
-- 🚀 **[GUI 프로그램]** https://www.youtube.com/playlist?list=PLlctsRMqEBsx9EvF73nnbqvoht9uFiu9M
-- 🚀 **[콘솔 프로그램]** https://www.youtube.com/playlist?list=PLlctsRMqEBsxhWvMCxF321wU0ZV-UZXJ7
+
+## 📺 시연 영상 모아보기(재생목록)
+- 🎁 [프로젝트](https://www.youtube.com/playlist?list=PLlctsRMqEBsx-MGu5acRkd9eynIVM-b3j) 
+- 🎁 [GUI 프로그램](https://www.youtube.com/playlist?list=PLlctsRMqEBsx9EvF73nnbqvoht9uFiu9M)
+- 🎁 [콘솔 프로그램](https://www.youtube.com/playlist?list=PLlctsRMqEBsxhWvMCxF321wU0ZV-UZXJ7)
 
 <!--
 **euijooning/euijooning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
