@@ -1,4 +1,52 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=slice&color=004EA1&height=170&section=header&text=Hi,%20Everyone!&fontColor=090707&fontAlignX=45&fontAlignY=65&fontSize=100)
+
+
+#### <div align="center"> ✨ 안녕하세요. 정의준입니다. ✨ <br> 🏃 넘치는 아이디어로 끊임없이 무언가를 만드는 것을 즐깁니다. 🏃 </div>
+
+<br>
+
+## 🏠 My Space
+#### Blog(🖱️Click)
+<a href="https://codegradation.tistory.com">
+  <img src="https://github.com/euijooning/euijooning/assets/49093239/0d7919a5-3c66-415f-9af6-52d6de69de34" alt="이미지 링크">
+</a>
+
+<br>
+
+## 🌀 About Me
+### 📚 Technology Stack 📚
+<p>
+<img src="https://img.shields.io/badge/Java-FF7F00?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+<br>  
+<img src="https://img.shields.io/badge/spring framework-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<img src="https://img.shields.io/badge/spring boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+<br>  
+<img src="https://img.shields.io/badge/mysql-003E98?style=for-the-badge&logo=mysql&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+<img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white">
+</p>
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euijooning&exclude_repo=project_naemeal_front&hide=mustache&langs_count=5&layout=compact)](https://github.com/euijooning/github-readme-stats)
+
+### 💪 Stacks currently Studying 💪
+<p>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
+<img src="https://img.shields.io/badge/kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
+</p>
+
+
+
+<br>
+
+## 📺 시연 영상 모아보기
+- 🚀 **[프로젝트]** https://www.youtube.com/playlist?list=PLlctsRMqEBsx-MGu5acRkd9eynIVM-b3j
+- 🚀 **[GUI 프로그램]** https://www.youtube.com/playlist?list=PLlctsRMqEBsx9EvF73nnbqvoht9uFiu9M
+- 🚀 **[콘솔 프로그램]** https://www.youtube.com/playlist?list=PLlctsRMqEBsxhWvMCxF321wU0ZV-UZXJ7
 
 <!--
 **euijooning/euijooning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
