@@ -51,9 +51,7 @@
 
 
 ## 📺 시연 영상 모아보기(재생목록)
-- 🎁 [프로젝트](https://www.youtube.com/playlist?list=PLlctsRMqEBsx-MGu5acRkd9eynIVM-b3j) 
-- 🎁 [GUI 프로그램](https://www.youtube.com/playlist?list=PLlctsRMqEBsx9EvF73nnbqvoht9uFiu9M)
-- 🎁 [콘솔 프로그램](https://www.youtube.com/playlist?list=PLlctsRMqEBsxhWvMCxF321wU0ZV-UZXJ7)
+
 
 <!--
 **euijooning/euijooning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
