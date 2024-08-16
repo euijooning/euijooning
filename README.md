@@ -11,7 +11,7 @@
   <img src="https://github.com/euijooning/euijooning/assets/49093239/61e6cb04-4248-4664-9e01-79f23ad33d45" alt="이미지 링크">
 </a>
 
-#### Blog('기획' 🖱️Click)
+#### Blog('기획' 2024~ 🖱️Click)
 <a href="https://coreknockknock.tistory.com">
   <img src="https://github.com/euijooning/euijooning/assets/49093239/61e6cb04-4248-4664-9e01-79f23ad33d45" alt="이미지 링크">
 </a>
@@ -56,7 +56,8 @@
 
 
 ## 📺 시연 영상 모아보기(재생목록)
-
+#### 개인 프로젝트
+<a href="https://www.youtube.com/playlist?list=PLijq41HJo_KHlRnihVgbJ105h73VqDB_4"> 개인 프로젝트 재생목록 </a>
 
 <!--
 **euijooning/euijooning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
