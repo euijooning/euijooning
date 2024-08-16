@@ -57,8 +57,8 @@
 
 ## 📺 시연 영상 모아보기(재생목록)
 #### 🚀 <a href="https://www.youtube.com/playlist?list=PLijq41HJo_KHlRnihVgbJ105h73VqDB_4"> 팀 프로젝트 재생목록 </a>
-#### 🚀 <a href="https://www.youtube.com/playlist/PLijq41HJo_KE9HSELYXLHatA_-RuObCz2"> 개인 프로젝트 재생목록 </a>
-#### 🚀 <a href="https://youtube.com/playlist/PLijq41HJo_KHDL3cFIiJt6_3aNCteCVa6"> 콘솔 프로그램 재생목록 </a> 
+#### 🚀 <a href="https://www.youtube.com/playlist?list=PLijq41HJo_KE9HSELYXLHatA_-RuObCz2"> 개인 프로젝트 재생목록 </a>
+#### 🚀 <a href="https://www.youtube.com/playlist/PLijq41HJo_KHDL3cFIiJt6_3aNCteCVa6"> 콘솔 프로그램 재생목록 </a> 
 
 <!--
 **euijooning/euijooning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
