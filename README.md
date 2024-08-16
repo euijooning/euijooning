@@ -11,6 +11,11 @@
   <img src="https://github.com/euijooning/euijooning/assets/49093239/61e6cb04-4248-4664-9e01-79f23ad33d45" alt="이미지 링크">
 </a>
 
+#### Blog('기획' 🖱️Click)
+<a href="https://coreknockknock.tistory.com">
+  <img src="https://github.com/euijooning/euijooning/assets/49093239/61e6cb04-4248-4664-9e01-79f23ad33d45" alt="이미지 링크">
+</a>
+
 #### Email
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:euijoonism@gmail.com)
 
