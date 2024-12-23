@@ -6,14 +6,9 @@
 <br>
 
 ## 🏠 My Space
-### ✍️ 개발 블로그(~ 2024)
+### ✍️ 블로그(개발+기획)
 <a href="https://codegradation.tistory.com">
   <img src="https://github.com/user-attachments/assets/b851ea09-99bc-4272-9f01-f80a2e327773" alt="이미지 링크">  
-</a>
-
-### ✍️ 기획 블로그(2024 ~ )
-<a href="https://techknockknock.tistory.com">
-  <img src="https://github.com/user-attachments/assets/562cd720-177b-4d40-b996-cf09cf13f12a" alt="이미지 링크">  
 </a>
 
 <br>
@@ -50,11 +45,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=euijooning&exclude_repo=project_naemeal_front&hide=mustache&langs_count=5&layout=compact)](https://github.com/euijooning/github-readme-stats)
 
 <br>
-
-## 📺 프로젝트 결과물 시연 영상 모아보기
-#### 🚀 <a href="https://www.youtube.com/playlist?list=PLT6Exe8l4fya30HxYVLZCx34Zpnpx9q9j"> 팀 프로젝트 재생목록 </a>
-#### 🚀 <a href="https://www.youtube.com/playlist?list=PLT6Exe8l4fybcK3QFPPNGnY1tiLf6Vmdh"> 개인 프로젝트 재생목록 </a>
-#### 🚀 <a href="https://www.youtube.com/playlist?list=PLT6Exe8l4fyYFPYwYDE7RVtL5v0Kg--Ds"> 콘솔 프로그램 재생목록 </a> 
 
 <!--
 **euijooning/euijooning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
