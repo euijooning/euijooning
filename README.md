@@ -8,8 +8,10 @@
 ## 🏠 My Space
 ### ✍️ 블로그(개발+기획)
 <a href="https://codegradation.tistory.com">
-  <img src="https://github.com/user-attachments/assets/b851ea09-99bc-4272-9f01-f80a2e327773" alt="이미지 링크">  
+  <img src="https://github.com/user-attachments/assets/17337920-35d8-4ea8-8679-7027a1a03192" alt="이미지 링크">  
 </a>
+![스트림아리움 로고만 2-cutout](https://github.com/user-attachments/assets/b62c76b1-8c45-4f47-9bdc-d9e1617c26bf)
+![로고투명]()
 
 <br>
 
