@@ -7,16 +7,13 @@
 
 ## 🏠 My Space
 ### ✍️ 블로그(개발+기획)
-<a href="https://codegradation.tistory.com">
-  <img src="https://github.com/user-attachments/assets/17337920-35d8-4ea8-8679-7027a1a03192" alt="이미지 링크">  
+<a href="https://codegradation.tistory.com" style="display: block; text-align: left;">
+  <img src="https://github.com/user-attachments/assets/17337920-35d8-4ea8-8679-7027a1a03192" alt="이미지 링크" style="width: 100px; height: 100px; display: inline-block;"> 
 </a>
-![스트림아리움 로고만 2-cutout](https://github.com/user-attachments/assets/b62c76b1-8c45-4f47-9bdc-d9e1617c26bf)
-![로고투명]()
-
 <br>
 
-### 💌 E-mail
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:euijoonism@gmail.com)
+### 💌 E-mail : <a href="mailto:euijoonism@gmail.com" style="text-decoration: none;"> <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" style="width: 70px; height: 20px;">
+</a>
 
 <br>
 
