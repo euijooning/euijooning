@@ -6,8 +6,8 @@
 <br>
 
 ## 🏠 My Space
-### ✍️ 블로그(개발+기획)
-<a href="https://blog.codegradation.com" target="_blank" rel="noopener noreferrer" style="display: block; text-align: left;">
+### ✍️ 블로그(기획/PM)
+<a href="https://justicelab.im" target="_blank" rel="noopener noreferrer" style="display: block; text-align: left;">
   <img src="https://github.com/user-attachments/assets/17337920-35d8-4ea8-8679-7027a1a03192" alt="이미지 링크" style="width: 100px; height: 100px; display: inline-block;"> 
 </a>
 <br>
